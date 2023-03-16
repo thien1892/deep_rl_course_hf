@@ -21,7 +21,7 @@ Link: https://huggingface.co/deep-rl-course/
 
 ## Lecture:
 
-### Unit1: Introduction to Deep Reinforcement Learning
+### Unit1: [Introduction to Deep Reinforcement Learning ](https://github.com/thien1892/deep_rl_course_hf/blob/master/Unit1_Introduction%20to%20Deep%20Reinforcement%20Learning.md)
 #### 1.1. Summary
 - Reinforcement Learning is a computational approach of learning from action. We build an agent that learns from the environment by interacting with it through trial and error and receiving rewards (negative or positive) as feedback.
 
